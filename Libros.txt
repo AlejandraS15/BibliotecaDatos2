@@ -1,0 +1,50 @@
+Orgullo y Prejuicio, Jane Austen, Romance, 1813, Historia de amor y malentendidos entre Elizabeth Bennet y el señor Darcy.
+Drácula, Bram Stoker, Terror, 1897, El conde Drácula viaja desde Transilvania a Inglaterra en busca de nuevas víctimas.
+1984, George Orwell, Ficción, 1949, Una visión distópica de un futuro totalitario bajo el control del Gran Hermano.
+Cien años de soledad, Gabriel García Márquez, Clásicos, 1967, La saga de la familia Buendía en el mítico pueblo de Macondo.
+El Origen de las Especies, Charles Darwin, Académicos, 1859, Tratado que presenta la teoría de la evolución por selección natural.
+Cumbres Borrascosas, Emily Brontë, Romance, 1847, Amor destructivo entre Heathcliff y Catherine Earnshaw.
+Frankenstein, Mary Shelley, Terror, 1818, Un científico crea vida con consecuencias trágicas.
+El gran Gatsby, F. Scott Fitzgerald, Clásicos, 1925, Retrato de la alta sociedad neoyorquina en los años 20.
+La teoría de la relatividad, Albert Einstein, Académicos, 1916, Teorías de la relatividad especial y general.
+Don Quijote de la Mancha, Miguel de Cervantes, Clásicos, 1605, Las aventuras de un hidalgo que se cree caballero.
+Los Miserables, Victor Hugo, Clásicos, 1862, Historia de redención y lucha social en la Francia post-revolucionaria.
+El retrato de Dorian Gray, Oscar Wilde, Ficción, 1890, Un hombre cuya belleza no envejece mientras su retrato sí lo hace.
+El amor en los tiempos del cólera, Gabriel García Márquez, Romance, 1985, Un hombre espera décadas para estar con la mujer que ama.
+El Hombre Invisible, H.G. Wells, Ficción, 1897, Historia de un hombre que se vuelve invisible pero no puede revertirlo.
+El Silmarillion, J.R.R. Tolkien, Ficción, 1977, Relatos de la creación y mitología de la Tierra Media.
+El Principito, Antoine de Saint-Exupéry, Clásicos, 1943, Un pequeño príncipe viaja a través de varios planetas, aprendiendo sobre la vida y el amor.
+Moby Dick, Herman Melville, Clásicos, 1851, La búsqueda obsesiva del capitán Ahab por la ballena blanca, Moby Dick.
+El Hombre que ríe, Victor Hugo, Ficción, 1869, Historia trágica de un joven con una sonrisa permanente grabada en su rostro.
+Cazadores de sombras: Ciudad de hueso, Cassandra Clare, Ficción, 2007, Primera entrega de la saga sobre jóvenes cazadores de demonios.
+El lobo estepario, Hermann Hesse, Clásicos, 1927, Un hombre dividido entre su naturaleza salvaje y civilizada.
+Guerra y Paz, León Tolstói, Clásicos, 1869, Una épica narración de las vidas rusas durante las guerras napoleónicas.
+El diario de Ana Frank, Ana Frank, Clásicos, 1947, El diario de una joven judía escondida durante la ocupación nazi de los Países Bajos.
+It, Stephen King, Terror, 1986, Un grupo de amigos enfrenta una entidad maligna que toma la forma de un payaso.
+Carrie, Stephen King, Terror, 1974, La historia de una adolescente con poderes telequinéticos que se venga de quienes la atormentan.
+El nombre de la rosa, Umberto Eco, Clásicos, 1980, Un misterio medieval en una abadía italiana donde los libros son mortales.
+Los pilares de la Tierra, Ken Follett, Clásicos, 1989, La construcción de una catedral en la Inglaterra del siglo XII.
+Rayuela, Julio Cortázar, Clásicos, 1963, Una novela experimental que explora el amor, el arte y la vida en París y Buenos Aires.
+Ensayo sobre la ceguera, José Saramago, Ficción, 1995, Un pueblo sufre una epidemia de ceguera blanca.
+La metamorfosis, Franz Kafka, Clásicos, 1915, Un hombre se despierta transformado en un insecto gigante.
+El señor de los anillos: La comunidad del anillo, J.R.R. Tolkien, Ficción, 1954, Primera parte de la saga en la que un grupo de héroes intenta destruir el Anillo Único.
+El alquimista, Paulo Coelho, Ficción, 1988, Un pastor busca su destino a través de un viaje lleno de aprendizajes y revelaciones.
+Crimen y Castigo, Fiódor Dostoyevski, Clásicos, 1866, La lucha moral de un joven que comete un asesinato y busca redención.
+La Divina Comedia, Dante Alighieri, Clásicos, 1320, Un poema épico sobre el viaje a través del infierno, purgatorio y el paraíso.
+El Código Da Vinci, Dan Brown, Ficción, 2003, Un profesor de simbología desvela un misterio milenario relacionado con el Santo Grial.
+Cazadores de sombras: Ciudad de ceniza, Cassandra Clare, Ficción, 2008, Segunda entrega de la saga sobre cazadores de demonios.
+El Juego de Ender, Orson Scott Card, Ficción, 1985, Un joven prodigio es entrenado para liderar la batalla final contra una raza alienígena.
+Fahrenheit 451, Ray Bradbury, Ficción, 1953, En una sociedad donde los libros están prohibidos, un bombero debe quemarlos.
+El Perfume, Patrick Süskind, Ficción, 1985, Historia de un hombre con un olfato extraordinario que asesina para crear el perfume perfecto.
+La Odisea, Homero, Clásicos, -700, El viaje épico de Ulises para regresar a su hogar tras la guerra de Troya.
+La Ilíada, Homero, Clásicos, -750, Historia de la guerra de Troya y la ira de Aquiles.
+El resplandor, Stephen King, Terror, 1977, Un hombre comienza a volverse loco mientras cuida un hotel aislado con su familia.
+La casa de los espíritus, Isabel Allende, Clásicos, 1982, Una saga familiar que mezcla realismo mágico y eventos históricos en Chile.
+Viaje al centro de la Tierra, Julio Verne, Ficción, 1864, Un grupo de exploradores desciende a las profundidades de la Tierra y descubre un mundo oculto.
+2001: Una odisea espacial, Arthur C. Clarke, Ficción, 1968, Un astronauta se enfrenta a una inteligencia artificial mientras explora el universo.
+El castillo, Franz Kafka, Ficción, 1926, Un hombre lucha contra la burocracia en un pueblo misterioso.
+Los detectives salvajes, Roberto Bolaño, Ficción, 1998, Dos poetas emprenden una búsqueda literaria en México y más allá.
+La sombra del viento, Carlos Ruiz Zafón, Ficción, 2001, Un joven descubre un libro misterioso y desentraña una historia secreta en la Barcelona de posguerra.
+El azar y la necesidad, Jacques Monod, Académicos, 1970, Reflexiones sobre la biología molecular y la evolución.
+El hombre en busca de sentido, Viktor Frankl, Académicos, 1946, Relato del psiquiatra y sobreviviente del Holocausto sobre cómo encontrar sentido en el sufrimiento.
+Cronica de una muerte anunciada, Gabriel Garcia Marquez, Académicos, 1981, Narra los eventos que rodean el asesinato de Santiago Nasar, quien es asesinado por los hermanos Vicario en venganza por haber deshonrado a su hermana Ángela.
